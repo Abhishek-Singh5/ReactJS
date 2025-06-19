@@ -28,11 +28,6 @@ react-learning/
 │ └── Virtual DOM, React Fiber, Reconciliation process
 │
 └── README.md
-
-markdown
-Copy
-Edit
-
 ---
 
 ## 📚 Topics Covered
@@ -72,20 +67,12 @@ Edit
 ## 🛠️ Getting Started
 
 1. Clone the repo
-   ```bash
-   git clone https://github.com/yourusername/react-learning.git
    cd react-learning
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Start the dev server
 
-bash
-Copy
-Edit
 npm start
 🌟 Technologies Used
 ReactJS
@@ -102,12 +89,6 @@ Vite / CRA (for bundling)
 To build a strong foundation in ReactJS through concept clarity and by creating real-world mini-projects, while also learning to write clean, reusable components and maintainable code.
 
 📬 Contact
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Abhishek Singh]
 
 Feel free to fork, contribute, and drop a ⭐ if you find this useful!
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like it tailored with your name, GitHub username, or a custom banner at the top!
