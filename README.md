@@ -8,26 +8,27 @@ Welcome to the **ReactJS Learning & Projects Hub** — a comprehensive repositor
          react-learning/
          │
          ├── 01-react-structure/
-         │ └── Understanding folder setup, component flow, JSX basics
+         │   └── Understanding folder setup, component flow, JSX basics
          │
          ├── 02-hooks-basics/
-         │ └── useState, useEffect, useRef, useCallback with examples
+         │   └── useState, useEffect, useRef, useCallback with examples
          │
          ├── 03-tailwind-react/
-         │ └── Styling React components using TailwindCSS
+         │   └── Styling React components using TailwindCSS
          │
          ├── 04-projects/
-         │ ├── Background Color Changer
-         │ ├── Password Generator
-         │ └── Currency Converter
+         │   ├── Background Color Changer
+         │   ├── Password Generator
+         │   └── Currency Converter
          │
          ├── 05-react-library/
-         │ └── Creating a custom reusable component library
+         │   └── Creating a custom reusable component library
          │
          ├── 06-advanced-concepts/
-         │ └── Virtual DOM, React Fiber, Reconciliation process
+         │   └── Virtual DOM, React Fiber, Reconciliation process
          │
          └── README.md
+
 ---
 
 ## 📚 Topics Covered
